@@ -1,0 +1,45 @@
+  347  ls 
+  348  cd ..
+  349  ls -a
+  350  ls
+  351  ls --all
+  352  env
+  353  pwd
+  354  ls .
+  355  ls ..
+  356  ls ../Looping
+  357  ~
+  358  ls -a ..
+  359  touch raj.txt
+  360  nano raj.txt 
+  361  cat raj.txt 
+  362  cp raj.txt raju.txt
+  363  cat raju.txt 
+  364  cp raj.txt ram.txt
+  365  rm raju.txt 
+  366  ls
+  367  mv ram.txt nagesh.txt
+  368  ls
+  369  git clone https://github.com/edurekavivekh/linux-content.git
+  370  ls
+  371  cd linux-content/
+  372  ls -l
+  373  cat data.csv 
+  374  cd ..
+  375  find . -name *.pdf
+  376  grep CAPTAIN data.csv
+  377  ls
+  378  cd linux-content/
+  379  grep CAPTAIN data.csv
+  380  grep -i gm data.csv 
+  381  cd..
+  382  cd ..
+  383  ls | grep -v /
+  384  env | grep USER
+  385  echo Hello Wolken
+  386  echo $USERNAME
+  387  history
+  388  history > linuxcommand.txt
+  389  history 343 > linuxcommands.txt
+  390  history 25 > linuxcommands1.txt
+  391  history 45 > linuxcommands.txt
